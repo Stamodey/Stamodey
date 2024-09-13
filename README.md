@@ -7,7 +7,14 @@
 ╚═╝  ╚═╝╚═╝╚═╝    ╚═╝╚═╝     ╚═╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   
                                                                                                           
 ~~~
+![banner](https://media.giphy.com/media/l0K4pM1bP2d0I9u5e/giphy.gif)
 
 
 ## 📊 Статистика
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Stamodey&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+
+
+---
+
+✨ Спасибо, что заглянули!
