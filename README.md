@@ -14,10 +14,6 @@
 ## 🌐 Используемые языки
 ![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Stamodey&layout=compact&theme=radical)
 
-## 🎖️ Достижения
-![Достижения](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Stamodey&theme=radical)
-
-
 ---
 
 ✨ Спасибо, что заглянули!
