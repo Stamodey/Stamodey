@@ -8,11 +8,19 @@
                                                                                                           
 ~~~
 
+>[!Tupe]Добро пожаловать в мой профиль на GitHub!
+
+
+
 ## 📊 Статистика
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Stamodey&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 🌐 Используемые языки
 ![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Stamodey&layout=compact&theme=radical)
+
+---
+
+> "Безопасность не является продуктом, а процессом." - Bruce Schneier
 
 ---
 
