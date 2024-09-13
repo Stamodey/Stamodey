@@ -7,13 +7,15 @@
 ╚═╝  ╚═╝╚═╝╚═╝    ╚═╝╚═╝     ╚═╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   
                                                                                                           
 ~~~
-<div id="header" align="center"> 
-	<img src="https://media.giphy.com/media/26BRv9rKcR1zRk2sA/giphy.gif"/> 
-</div>
 
 ## 📊 Статистика
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Stamodey&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
+## 🌐 Используемые языки
+![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Stamodey&layout=compact&theme=radical)
+
+## 🎖️ Достижения
+![Достижения](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Stamodey&theme=radical)
 
 
 ---
