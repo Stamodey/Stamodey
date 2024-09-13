@@ -7,8 +7,9 @@
 ╚═╝  ╚═╝╚═╝╚═╝    ╚═╝╚═╝     ╚═╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   
                                                                                                           
 ~~~
-![banner](https://media.giphy.com/media/l0K4pM1bP2d0I9u5e/giphy.gif)
-
+<div id="header" align="center"> 
+	<img src="https://media.giphy.com/media/26BRv9rKcR1zRk2sA/giphy.gif"/> 
+</div>
 
 ## 📊 Статистика
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Stamodey&show_icons=true&hide_title=true&count_private=true&theme=radical)
